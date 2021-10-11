@@ -1,0 +1,171 @@
+[
+    {
+        "id": "1",
+        "name": "myEmas",
+        "image" : "./api_img/men1.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "2",
+        "name": "",
+        "image" : "./api_img/men2.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "3",
+        "name": "",
+        "image" : "./api_img/men3.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "4",
+        "name": "",
+        "image" : "./api_img/men4.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "5",
+        "name": "",
+        "image" : "./api_img/men5.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "6",
+        "name": "",
+        "image" : "./api_img/men6.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "7",
+        "name": "",
+        "image" : "./api_img/men7.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "8",
+        "name": "",
+        "image" : "./api_img/men8.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "9",
+        "name": "",
+        "image" : "./api_img/men9.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "10",
+        "name": "",
+        "image" : "./api_img/men10.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "11",
+        "name": "",
+        "image" : "./api_img/men11.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "12",
+        "name": "",
+        "image" : "./api_img/men12.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "13",
+        "name": "",
+        "image" : "./api_img/men13.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "14",
+        "name": "",
+        "image" : "./api_img/men14.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "15",
+        "name": "",
+        "image" : "./api_img/men15.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "16",
+        "name": "",
+        "image" : "./api_img/men16.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "17",
+        "name": "",
+        "image" : "./api_img/men17.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "18",
+        "name": "",
+        "image" : "./api_img/men18.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "19",
+        "name": "",
+        "image" : "./api_img/men19.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "20",
+        "name": "",
+        "image" : "./api_img/sipple.JFIF",
+        "pirce": "$30"
+    },
+    {
+        "id": "21",
+        "name": "",
+        "image" : "./api_img/men21.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "22",
+        "name": "",
+        "image" : "./api_img/men22.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "23",
+        "name": "",
+        "image" : "./api_img/fem1.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "24",
+        "name": "",
+        "image" : "./api_img/fem2.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "25",
+        "name": "",
+        "image" : "./api_img/men23.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "26",
+        "name": "",
+        "image" : "./api_img/men24.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "27",
+        "name": "",
+        "image" : "./api_img/men.jpg",
+        "pirce": "$30"
+    },
+    {
+        "id": "28",
+        "name": "",
+        "image" : "./api_img/men25.jpg",
+        "pirce": "$30"
+    }
+]
+    
